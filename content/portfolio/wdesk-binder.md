@@ -1,6 +1,6 @@
 +++
 date = "2018-01-29T00:38:11+00:00"
-image = "/img/portfolio/wdesk.png"
+image = "/img/portfolio/wdesk-1.png"
 showonlyimage = false
 title = "Wdesk Binders"
 type = ""

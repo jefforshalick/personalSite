@@ -4,7 +4,7 @@ image = "/img/wdesk-1.png"
 showonlyimage = false
 title = "Wdesk Binders"
 type = ""
-weight = ""
+weight = "200"
 
 +++
 Wdesk Binders acts as an aggregator of different document types that can easily be distributed to users across platforms.

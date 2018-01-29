@@ -4,7 +4,7 @@ image = "/img/read-together-1.png"
 showonlyimage = false
 title = "Read Together"
 type = ""
-weight = ""
+weight = "500"
 
 +++
 A Startup Weekend project based around an application that allows individuals to read along together even when they are apart.

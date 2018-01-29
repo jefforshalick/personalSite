@@ -4,7 +4,7 @@ image = "/img/buzzbee-1.png"
 showonlyimage = false
 title = "BuzzBee"
 type = ""
-weight = ""
+weight = "400"
 
 +++
 A Startup Weekend project based around an investing platform that helps people with investments from big to small.  

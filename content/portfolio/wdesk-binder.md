@@ -11,6 +11,6 @@ Wdesk Binders acted as an aggregator of different document types that could be d
 
 <!--more-->
 
-![](/img/portfolio/wdesk-1.png)
-
 I acted as the lead designer on this project and took it from it's MVP form on desktop to a cross-platform product that fit Workiva's new style.
+
+![](/img/portfolio/wdesk-1.png)

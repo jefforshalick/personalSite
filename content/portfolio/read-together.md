@@ -10,4 +10,8 @@ weight = ""
 A Startup Weekend project based around an application that allows individuals to read along together even when they are apart.
 <!--more-->
 
-![](/img/read-together-1.png)![](/img/read_together-3.png)![](/img/read_together-2.png)
+![](/img/read-together-1.png)
+
+![](/img/read_together-3.png)
+
+![](/img/read_together-2.png)

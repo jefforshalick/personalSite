@@ -10,4 +10,6 @@ weight = ""
 A Startup Weekend project based around an investing platform that helps people with investments from big to small.  
 <!--more-->
 
-![](/img/buzzbee-1.png)![](/img/buzzbee-2.png)
+![](/img/buzzbee-1.png)
+
+![](/img/buzzbee-2.png)

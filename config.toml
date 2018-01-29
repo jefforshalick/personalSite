@@ -1,4 +1,4 @@
-baseURL = "www.jefforshalick.com"
+baseURL = "https://www.jefforshalick.com"
 languageCode = "en-us"
 title = "Jeff Orshalick"
 theme = "creativePortfolio"

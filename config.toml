@@ -1,4 +1,4 @@
-baseURL = "http://jefforshalick.netlify.com"
+baseURL = "jefforshalick.com"
 languageCode = "en-us"
 title = "Jeff Orshalick"
 theme = "creativePortfolio"

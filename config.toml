@@ -16,7 +16,7 @@ googleAnalytics = ""
   sidebarAbout = [
     "I'm a creative living in sunny Arizona.",
     "UX Designer by day, remodeler by night (and weekends).",
-    "Say hi at <strong>hi@jefforshalick.com</strong> or check me out around the web."
+    "Say hi at <a>hi@jefforshalick.com</a> and check me out around the web."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

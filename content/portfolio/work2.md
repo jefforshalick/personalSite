@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-image = "img/portfolio/business-card-26.jpg"
+image = "/uploads/2018/01/29/read-together-1.png"
 showonlyimage = false
 title = "Read Together"
 weight = 1

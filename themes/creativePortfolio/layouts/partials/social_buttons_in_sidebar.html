@@ -1,4 +1,20 @@
 <p class="social">
+  {{ with .Site.Params.social.linkedin }}
+  <a href="{{ . }}"  data-animate-hover="pulse" class="external linkedin">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.dribbble }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external dribbble">
+    <i class="fa fa-dribbble"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.instagram }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  {{end}}
+  <!--
   {{ with .Site.Params.social.facebook }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external facebook">
     <i class="fa fa-facebook"></i>
@@ -14,19 +30,9 @@
     <i class="fa fa-twitter"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.instagram }}
-  <a href="{{ . }}" title="" class="external instagram">
-    <i class="fa fa-instagram"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.email }}
   <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email">
     <i class="fa fa-envelope"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.linkedin }}
-  <a href="{{ . }}" data-animate-hover="pulse">
-    <i class="fa fa-linkedin"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.stackoverflow }}
@@ -39,4 +45,5 @@
     <i class="fa fa-github"></i>
   </a>
   {{end}}
+  -->
 </p>

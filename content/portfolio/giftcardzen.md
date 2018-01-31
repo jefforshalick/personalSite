@@ -9,7 +9,7 @@ weight = "300"
 +++
 <!--more-->
 
-I acted as the lead designer on this project and took it from it's MVP form on desktop to a cross-platform product that fit Workiva's new style and growing business needs.
+Here's some stickers and branding I did for Giftcard Zen.
 
 ![](/img/gcz-1.png)
 

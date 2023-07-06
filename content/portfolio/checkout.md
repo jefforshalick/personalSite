@@ -7,16 +7,15 @@ type = ""
 weight = "100"
 
 +++
-RetailMeNot Checkout is an on demand savings platform that utilizes on-demand, discounted gift cards to promise consistent savings.
+Checkout 
 <!--more-->
+Checkout by RetailMeNot is an on demand savings platform that utilizes on-demand, discounted gift cards to promise consistent savings.
 
 This product was 3 years in the making. Starting with a vision of a product to deliver discounted gift cards to the user, fast, we set out to create a magical experience with the promise of always-on savings.
 
 ![](/img/checkout-12.png)
 
 ![](/img/checkout-2.jpg)
-
-Above is some initial sketches of the flow of the app and below is a sample flow from early on around onboarding and the buy flow.
 
 ![](/img/checkout-3.png)
 

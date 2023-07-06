@@ -7,9 +7,8 @@ type = ""
 weight = "300"
 
 +++
-<!--more-->
-
 Here's some stickers and branding I did for Giftcard Zen.
+<!--more-->
 
 ![](/img/gcz-1.png)
 

@@ -10,9 +10,9 @@ weight = "900"
 <!--more-->
 As the first and sole designer at Giftcard Zen, I was responsible for everything from product design to branding and stickers! Here's some stickers, business cards, and hiring cards I made for GCZ.
 
-![](/img/gcz/4.png)
-
 ![](/img/gcz/5.png)
+
+![](/img/gcz/4.png)
 
 ![](/img/gcz/1.png)
 

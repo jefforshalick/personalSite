@@ -2,9 +2,9 @@
 date = "2018-01-29T00:38:11+00:00"
 image = "/img/binders/1.png"
 showonlyimage = false
-title = "Binders @ Workiva"
+title = "Binders"
 type = ""
-weight = "200"
+weight = "120"
 
 +++
 <!--more-->

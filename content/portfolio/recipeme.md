@@ -4,7 +4,7 @@ image = "/img/recipe-me/1.png"
 showonlyimage = false
 title = "Recipe Me!"
 type = ""
-weight = "600"
+weight = "700"
 
 +++
 <!--more-->

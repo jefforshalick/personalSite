@@ -7,8 +7,8 @@ type = ""
 weight = "100"
 
 +++
-Checkout 
 <!--more-->
+
 Checkout by RetailMeNot is an on demand savings platform that utilizes on-demand, discounted gift cards to promise consistent savings.
 
 This product was 3 years in the making. Starting with a vision of a product to deliver discounted gift cards to the user, fast, we set out to create a magical experience with the promise of always-on savings.

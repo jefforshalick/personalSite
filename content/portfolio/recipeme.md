@@ -7,8 +7,8 @@ type = ""
 weight = "600"
 
 +++
-A branding exploration for a personal project for a recipe gathering, finding, and sharing application
 <!--more-->
+A branding exploration for a personal project for a recipe gathering, finding, and sharing application
 
 ![](/img/recipeme-1.png)
 

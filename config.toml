@@ -30,29 +30,29 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  # email = "you@yoursite.com"
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+  # [[params.navlinks]]
+  # name = "Home"
+  # url = "portfolio/"
+  # home = true
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "About"
+  # url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/jefforshalick/"
   dribbble      = "https://dribbble.com/jefforshalick"
   instagram     = "https://www.instagram.com/jeffapalooza/"
-  twitter       = "full profile url in twitter"
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  stackoverflow = "full profile url in stackoverflow"
-  github        = "full profile url in github"
+  # twitter       = "full profile url in twitter"
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  # email         = "email@example.com"
+  # stackoverflow = "full profile url in stackoverflow"
+  # github        = "full profile url in github"

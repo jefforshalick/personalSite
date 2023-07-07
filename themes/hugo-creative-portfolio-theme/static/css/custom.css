@@ -1,1 +1,22 @@
 /* your styles go here */
+
+.navbar, body, .btn, .label, .pager, .pagination, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+.box-masonry h4, .sidebar-heading{
+    text-transform: none;
+    letter-spacing: 0.05em;
+  }
+
+.box-masonry h4{
+    font-weight: 600;
+  }
+
+
+.box-masonry h4{
+    font-weight: 500;
+  }
+
+
+

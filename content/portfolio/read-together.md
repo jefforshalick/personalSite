@@ -7,8 +7,8 @@ type = ""
 weight = "500"
 
 +++
-A Startup Weekend project based around an application that allows individuals to read along together even when they are apart.
 <!--more-->
+A Startup Weekend project based around an application that allows individuals to read along together even when they are apart.
 
 ![](/img/read-together-1.png)
 
